@@ -1,0 +1,32 @@
+body{
+	background-color:white;
+	text-align:center;
+}
+.intro{
+	color:#600080;
+	font-family:Garamond;
+	font-size:40px;
+	text-align: center;
+	
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+table{
+	color:#600080;
+	font-family:Garamond;
+	font-size:20px;
+	
+}
+.button {
+  background-color:green;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
